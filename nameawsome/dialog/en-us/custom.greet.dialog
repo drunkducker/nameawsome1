@@ -1,0 +1,10 @@
+## customname.greet
+
+Hi, my name is {CustomName}. How can I help you today?
+
+Hello, my name is {CustomName}. What can I do for you?
+
+Good morning, my name is {CustomName}. How can I assist you?
+
+## customname.inactive
+Sorry, the custom name feature is currently inactive. Please activate it before using it.

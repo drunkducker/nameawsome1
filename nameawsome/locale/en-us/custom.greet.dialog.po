@@ -1,0 +1,5 @@
+#: dialog/en-us/customname.greet.dialog:1
+msgid "Hi, my name is {CustomName}. How can I help you today?"
+msgstr "Hola, mi nombre es {CustomName}. ¿En qué puedo ayudarte hoy?"
+
+#: dialog/en-us/customname.greet.dial

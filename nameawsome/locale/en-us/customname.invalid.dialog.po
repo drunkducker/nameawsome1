@@ -1,0 +1,12 @@
+#: dialog/en-us/customname.invalid.dialog:1
+msgid "Sorry, that custom name is not valid. Please enter a name that is at least 3 characters long and contains only letters and spaces."
+msgstr "Lo siento, ese nombre personalizado no es válido. Por favor, ingrese un nombre que tenga al menos 3 caracteres y contenga solo letras y espacios."
+
+#: dialog/en-us/customname.invalid.dialog:2
+msgid "I'm sorry, but that custom name is not allowed. Please try a different name."
+msgstr "Lo siento, pero ese nombre personalizado no está permitido. Por favor, intente con un nombre diferente."
+
+#: dialog/en-us/customname.invalid.dialog:3
+msgid "Invalid custom name. Please enter a valid name."
+msgstr "Nombre personalizado no válido. Por favor, ingrese un nombre válido."
+

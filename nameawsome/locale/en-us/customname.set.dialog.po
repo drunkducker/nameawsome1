@@ -1,0 +1,11 @@
+#: dialog/en-us/customname.set.dialog:1
+msgid "Great, your custom name is now set to {CustomName}."
+msgstr "Genial, su nombre personalizado ahora está establecido en {CustomName}."
+
+#: dialog/en-us/customname.set.dialog:2
+msgid "Ok, your custom name has been changed to {CustomName}."
+msgstr "De acuerdo, su nombre personalizado ha sido cambiado a {CustomName}."
+
+#: dialog/en-us/customname.set.dialog:3
+msgid "Got it, {CustomName} is your new custom name."
+msgstr "Entendido, {CustomName} es su nuevo nombre personalizado."

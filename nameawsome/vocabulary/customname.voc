@@ -1,0 +1,5 @@
+# The custom name entity is used to capture the user's desired custom name
+CustomName
+
+# The custom name inactive entity is used to trigger the customname.inactive.dialog statements
+CustomNameInactive

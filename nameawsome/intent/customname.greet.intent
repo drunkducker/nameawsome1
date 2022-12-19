@@ -1,0 +1,17 @@
+## Set a custom name for Mycroft
+
+- Set Mycroft's name to {CustomName}
+- Mycroft's name is {CustomName}
+- Call Mycroft {CustomName}
+
+## Examples
+- Set Mycroft's name to {CustomName}
+- Mycroft's name is now {CustomName}
+- Call Mycroft {CustomName} from now on
+
+## customname.greet.intent
+- greet me
+- say hello
+- how are you
+- what's your name
+- CustomNameInactive
